@@ -9,6 +9,5 @@ permalink: /:year/:month/:day/:title/
 author:
   name: Jimmy
 
-# Once this is pushed to GitHub and Pages is enabled, set:
-# url: "https://<username>.github.io"
-# baseurl: "/Jimmy"
+url: "https://yotamabramsonpublic-bot.github.io"
+baseurl: "/jimmy-blog"
